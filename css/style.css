@@ -1,0 +1,81 @@
+header{
+    background-color: #2F5CAF;
+    min-height: 100px;
+   
+/*     overflow:hidden;*/
+}
+.common_bg{
+    background-color: white;
+/*     overflow:hidden;*/
+}
+
+.common_height{
+    min-height: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 34px;
+/*     overflow:hidden;*/
+/*     float: left;*/
+}
+.common_height_two{
+     min-height: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 34px;
+/*     overflow:hidden;*/
+}
+.breadcrumb{
+    min-height: 50px;
+    background-color: #2F5CAF;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border: 1px solid;
+/*     overflow:hidden;*/
+}
+
+/*<!-- start service-->*/
+
+.service_height{
+    min-height: 400px;
+    overflow: hidden;
+    
+/*    padding-left: 0px;*/
+}
+.service_bg{
+   background-color: #2F5CAF;
+/*   margin-left: 8px;*/
+/*    padding-left: 0px;*/
+    overflow: hidden;
+   
+}
+
+.service_point{
+    
+    min-height: 150px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+/*    padding-top: 20px;*/
+}
+
+.service_gorg{
+     background-color: white;
+    
+}
+
+.service_last{
+    min-height: 55px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+   
+   
+}
+
+.service_lost{
+    min-height: 55px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+
+
+
